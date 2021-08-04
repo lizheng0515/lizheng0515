@@ -5,7 +5,6 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=lizheng0515&hide=contribs,prs&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
 
 <a href="https://github.com/lizheng0515/">
   <img align="left" alt="yisar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
