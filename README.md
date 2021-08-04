@@ -26,6 +26,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <br />
+  <img align="right" alt="img" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
