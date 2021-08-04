@@ -3,7 +3,7 @@
 ### Hello Word 👋🏽, Are You OK?
 
 
-[![lizheng0515's github stats](https://github-readme-stats.vercel.app/api?username=lizheng0515&hide=contribs,prs&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=lizheng0515&hide=contribs,prs&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
